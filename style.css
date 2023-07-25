@@ -1,0 +1,12 @@
+body {
+    background-color: grey;
+}
+
+header {
+    background-color: firebrick;
+}
+
+input {
+    border-radius: 3px;
+    font-style: italic;
+}
